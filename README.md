@@ -28,7 +28,8 @@ documentation for more details.
 
 ## Requirements
 
-`policyd` requires [libuv](https://github.com/libuv/libuv).
+`policyd` requires [libuv](https://github.com/libuv/libuv) version
+>= 1.5.0.
 
 ## Building
 
